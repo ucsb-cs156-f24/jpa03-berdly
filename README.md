@@ -1,5 +1,5 @@
 # jpa03-berdly
-Running at: <http://jpa03-berdly.dokku-02.cs.ucsb.edu>
+Running at: <https://jpa03-berdly.dokku-02.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
